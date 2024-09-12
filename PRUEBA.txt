@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Esta es la evaluación de 1 mi curso de Benjamin CCNA DEVNET
+=======
+>>>>>>> test
 Esta es una nueva línea para el archivo del certamen.
